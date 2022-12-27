@@ -12,7 +12,7 @@ My Social Media :
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
   
-'''Sugeng rawuh'''
-'''✋ Hello bro, I'm Revanza'''
-'''🏠 I'm from kediri-east java-indonesia'''
-'''Matur nuwun'''
+''' Sugeng rawuh '''
+''' ✋ Hello bro, I'm Revanza '''
+''' 🏠 I'm from kediri-east java-indonesia '''
+''' Matur nuwun '''
