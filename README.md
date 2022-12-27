@@ -32,5 +32,4 @@ public class RevanzaXD {
    }
 }
 ```
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyaa-code&show_icons=true&locale=en" alt="revanzaXD" /></p>
+img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanzaXD&layout=compact" alt="Top language">
