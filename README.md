@@ -14,7 +14,7 @@ ___
 
 - Live in  :  https://www.facebook.com/vanyourbae.RK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hekelpro&label=Profile%20views&color=0e75b6&style=flat" alt="hekelpro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hekelpro&label=Profile%100views&color=0e75b6&style=flat" alt="hekelpro" /> </p>
 
 ### 💻 Programming language used
 - Python (3.x.x)
