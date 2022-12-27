@@ -26,7 +26,7 @@ ___
 - C++, C#, C
 
 ```JAVA
-public class adtya_putra {
+public class RevanzaXD {
    public static void main(String[] args) {
       System.out.print("Welcome To My Profile!");
    }
