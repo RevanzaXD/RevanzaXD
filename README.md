@@ -1,6 +1,4 @@
-[![revan's header]
-(https://i.postimg.cc/prwdfDmy/IMG-20220804-215341.jpg)(https://fb.me/vanyourbae.RK)
-My Social Media :
+[![RevanzaXD's header]([https://i.postimg.cc/zf3740rD/20220907-160703.jpg](https://i.postimg.cc/prwdfDmy/IMG-20220804-215341.jpg))](https://fb.me/vanyourbae.RK)
 
 <p align=center>
   <a href="https://facebook.com/vanyourbae.RK"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
